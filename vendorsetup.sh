@@ -1,2 +1,2 @@
-add_lunch_combo emotion_trltexx-userdebug
+add_lunch_combo cm_trltexx-userdebug
 
